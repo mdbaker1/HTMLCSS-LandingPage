@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 { margin: 0; }
 .align-center {align-items: center;}
 .center {justify-content: center;}
 .space-between {justify-content: space-between;}
-.btn {cursor: pointer; border: none; padding: 6px 12px; border-radius:  3px; line-height: 1.4;}
+.btn {cursor: pointer; border: 0; padding: 6px 12px; border-radius:  3px; line-height: 1.4;}
 .btn-default {color: white; background-color: #faa541;}
 .btn-primary {color: white; background-color: #364147;}
 .form-control {display: block; padding: 6px 12px; border: 1px #a0a0a0 solid; color: #8598a2; line-height: 1.4;}
